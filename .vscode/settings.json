@@ -1,7 +1,0 @@
-{
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "editor.tabSize": 2,
-  "workbench.colorTheme": "Palenight (Mild Contrast)",
-  "workbench.iconTheme": "material-icon-theme"
-}
